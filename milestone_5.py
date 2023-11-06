@@ -97,7 +97,7 @@ def play_game(word_list):
 
     while True:
         if game.max_lives == 0:
-            print("You lost!")
+            print(f"You lost! the word was {game.word}")
             break
         elif game.num_letters > 0:
             game.ask_for_input()
