@@ -5,7 +5,7 @@
 - [Hangman Game](#hangman-game)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
-    - [What I Learned](#what-i-learned)
+  - [What I Learned](#what-i-learned)
   - [Installation](#installation)
   - [How to Play](#how-to-play)
 
@@ -13,7 +13,7 @@
 
 Hangman is a classic word-guessing game where players try to guess a hidden word by suggesting letters one at a time. The aim of this project is to create a simple command-line version of the Hangman game in Python. This project demonstrates the use of Python programming concepts, including classes, functions, and user input processing.
 
-### What I Learned
+## What I Learned
 
 Throughout the development of this project, I learned the following:
 
